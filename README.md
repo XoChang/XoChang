@@ -38,8 +38,9 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-
-
-
 </span>
+
+
+Puedes ver mi currículum en el siguiente enlace:  
+[Mi CV en PDF](https://github.com/XoChang/XoChang/blob/main/CV_JesusAngelSaenzChang.pdf)
 
