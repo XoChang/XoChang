@@ -40,7 +40,10 @@ I am a software engineering student, currently halfway through my degree. I am e
 
 </span>
 
+<h4>Mi CV </h4>
 
+<span>
 Puedes ver mi currículum en el siguiente enlace:  
 [Mi CV en PDF](https://github.com/XoChang/XoChang/blob/main/CV_JesusAngelSaenzChang.pdf)
-
+</span>
+  
