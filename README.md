@@ -4,14 +4,24 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎮I love playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
+I am a Software Engineering student (10th semester at UNMSM), passionate about building digital solutions that combine functionality and design. I have hands-on experience with Full Stack development and Data Analysis, and I have participated in academic and personal projects using React, Node.js, Spring Boot, Python, and Power BI. I also gained international experience in the U.S., which strengthened my communication, teamwork, and adaptability in multicultural environments.
+
+🌱 I’m currently learning:
+
+Cloud Computing (AWS – Azure – Google Cloud)
+
+Machine Learning with Python
+
+R Programming
+
+👯 I’m looking forward to collaborating on open source projects and contributing to software that has a real impact.
+
+✔ Ask me about JavaScript, Python, databases (MySQL, PostgreSQL, MongoDB), or project development – I’ll be happy to help.
+
+Outside tech: 🎮 I love playing videogames, 🎵 listening to music, and 📖 reading about AI and data science.
+
+👾 Additionally, I’m building my personal website portfolio freelancerjesussaenz.netlify.app
+ to showcase my projects and freelance services.
 - 📫 Reach out to me at: <a href="jsaenzchang@gmail.com">jsaenzchang@gmail.com</a>
 
 ## My Skills Include
